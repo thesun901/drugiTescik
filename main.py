@@ -4,4 +4,5 @@ print("123")
 print(secret.haslo)
 print("ookej")
 print("no i huj")
+print("i co terazz")
 
