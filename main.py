@@ -5,4 +5,5 @@ print(secret.haslo)
 print("ookej")
 print("no i huj")
 print("i co terazeez")
+print("ostatnia pruba")
 
