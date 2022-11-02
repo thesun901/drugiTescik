@@ -1,6 +1,6 @@
 import secret
 print("to je epicke")
-print("1234")
+print("12345")
 print(secret.haslo)
 
 
