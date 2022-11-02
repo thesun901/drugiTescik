@@ -3,4 +3,5 @@ print("to je epicke")
 print("123")
 print(secret.haslo)
 print("ookej")
-print("lesgo?23333")
+print("no i huj")
+
