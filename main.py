@@ -1,9 +1,6 @@
 import secret
 print("to je epicke")
-print("123")
+print("12345")
 print(secret.haslo)
-print("ookej")
-print("no i huj")
-print("i co terazeez")
-print("ostatnia pruba")
+
 
